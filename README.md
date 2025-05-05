@@ -1,7 +1,7 @@
 # NLP-Date-a-Base
 NLP Final Project by The Naive Babes
 
-The directory is composed of the CoLab .ipynb file, folder containing the original dataset, and a copy of our final slides. 
+The directory is composed of the CoLab .ipynb file, a folder containing the original dataset, and a copy of our final slides. 
 
 The dataset is split in the file as the original was too large to be uploaded to GitHub as one submission. Here is a link to the original Kaggle post containing the full dataset:
 https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
