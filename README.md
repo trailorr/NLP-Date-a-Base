@@ -1,5 +1,11 @@
 # NLP-Date-a-Base
-Group 8 NLP Final Project
+NLP Final Project by The Naive Babes
 
-4/9 Initial raw data was separated into two files due to the maximum file size set for GitHub uploads.
-4/25 Final CoLab file added
+The directory is composed of the CoLab .ipynb file, folder containing the original dataset, and a copy of our final slides. 
+
+The dataset is split in the file as the original was too large to be uploaded to GitHub as one submission. Here is a link to the original Kaggle post containing the full dataset:
+https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
+
+The code may be executed directly from CoLab as it pulls the dataset directly from the GitHub repo (no need to download dataset). 
+
+In addition to standard Python libraries, we used the Mistral library as well as the HuggingFace libraries used in Lab 7 for DistiliBERT.
