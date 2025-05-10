@@ -17,7 +17,7 @@ First, pull and combine the datasets from this repository.
 Partition the data into 80% training data, 20% testing data. Then extract only the columns that will be used, the age columns and the essay columns. Then to figure out the size of each age range, entries were grouped according to the user's age and then the groups were counted. Lastly, essay responses from multiple columns were combined into one string for processing. 
 
 ## Baselines
-Both training and testing datasets were balenced with 2000 entries per age group. Then baselines were calculated: random, majority, and stratified. 
+Both training and testing datasets were balanced with 2000 entries per age group. Then baselines were calculated: random, majority, and stratified. 
 
 ## Bag of Words with POS
 First, tokenized and tagged both training and testing data. Then frequencies of each essay were calculated. Next, created bag of words vectors with part of speech lists and frequencies. Lastly, trained the bag of words model on the training data and tested it on the testing data. The results of the model were then recorded.
