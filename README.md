@@ -8,4 +8,4 @@ https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
 
 The code may be executed directly from CoLab as it pulls the dataset directly from the GitHub repo (no need to download dataset). 
 
-In addition to standard Python libraries, we used the Mistral library as well as the HuggingFace libraries used in Lab 7 for DistiliBERT.
+In addition to standard Python libraries, we used the [Mistral](https://docs.mistral.ai/getting-started/clients/) library as well as the [HuggingFace](https://huggingface.co/docs/hub/en/transformers) libraries used in Lab 7 for DistiliBERT.
